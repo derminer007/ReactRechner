@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactRechner/static/css/main.8a7ee7fe.chunk.css",
+    "main.js": "/ReactRechner/static/js/main.ad748007.chunk.js",
+    "main.js.map": "/ReactRechner/static/js/main.ad748007.chunk.js.map",
+    "runtime-main.js": "/ReactRechner/static/js/runtime-main.d2231c74.js",
+    "runtime-main.js.map": "/ReactRechner/static/js/runtime-main.d2231c74.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/ReactRechner/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.cf11ec95.chunk.js": "/ReactRechner/static/js/2.cf11ec95.chunk.js",
+    "static/js/2.cf11ec95.chunk.js.map": "/ReactRechner/static/js/2.cf11ec95.chunk.js.map",
+    "index.html": "/ReactRechner/index.html",
+    "precache-manifest.85f6948bd55ed5cd9727b4f61309520d.js": "/ReactRechner/precache-manifest.85f6948bd55ed5cd9727b4f61309520d.js",
+    "service-worker.js": "/ReactRechner/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/ReactRechner/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.8a7ee7fe.chunk.css.map": "/ReactRechner/static/css/main.8a7ee7fe.chunk.css.map",
+    "static/js/2.cf11ec95.chunk.js.LICENSE.txt": "/ReactRechner/static/js/2.cf11ec95.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactRechner/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2231c74.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.cf11ec95.chunk.js",
+    "static/css/main.8a7ee7fe.chunk.css",
+    "static/js/main.ad748007.chunk.js"
+  ]
+}
